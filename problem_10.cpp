@@ -1,3 +1,8 @@
+/*program to demonstrate the concept of:-
+*default constractor
+*parameterized constractor
+*constractor overloading*/
+
 #include <iostream>
 using namespace std;
 class complex
